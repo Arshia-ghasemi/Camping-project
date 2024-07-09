@@ -1,0 +1,7 @@
+@import "reset.css";
+@import url(xs.css);
+@import url(md.css) screen and (min-width: 768px);
+@import url(lg.css) screen and (min-width: 992px);
+@import url(xl.css) screen and (min-width: 1200px);
+@import url(xxl.css) screen and (min-width: 1400px);
+

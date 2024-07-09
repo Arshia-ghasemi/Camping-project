@@ -1,0 +1,17 @@
+header {
+    nav {
+        .menu {
+            margin-left: 50px;
+        }
+    }
+
+    .banner {
+        .title {
+            width: 50% !important;
+        }
+
+        .parag {
+            width: 46%;
+        }
+    }
+}

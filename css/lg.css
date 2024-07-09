@@ -1,0 +1,10 @@
+main {
+    .services {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+
+        .sub {
+            width: 60%;
+        }
+    }
+}
